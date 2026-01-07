@@ -1,0 +1,2 @@
+transformers datasets>=2.0.0
+transformers[torch] accelerate>=0.20.3
